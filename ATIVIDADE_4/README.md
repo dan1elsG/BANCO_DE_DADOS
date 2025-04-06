@@ -1,7 +1,5 @@
 # Exercícios de SQL - Manipulação de Dados
 
-Este repositório contém exercícios práticos de SQL focados em manipulação de dados em um banco de dados relacional.
-
 ## Atividades
 
 ### 1. Inserção de Dados com Valores Múltiplos
