@@ -1,4 +1,4 @@
-# Sistema de Consultas ao Banco de Dados Pagila
+# Sistema de Consultas ao Banco de Dados
 
 Este sistema realiza consultas ao banco de dados PostgreSQL Pagila, respondendo às seguintes questões:
 
